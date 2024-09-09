@@ -8,7 +8,7 @@
 * Scale the features.
 
 ### Initial Prediction
-* I think Logistic Regression will perform better because spam has more of features like spelling mistakes, poor grammar, capitals, etc. So I would think the spam versus non-spam groups or clusters could be separated by a straight line? Also dataset looks somewhat balanced and it is not huge. Spam classification decision-making is not too complex for Logistic Regression.
+* I think Logistic Regression will perform better because spam has more of features like spelling mistakes, poor grammar, capitals, etc. So I would think the spam versus non-spam groups or clusters could be separated by a straight line. Also dataset looks somewhat balanced and it is not huge. Spam classification decision-making is not too complex for Logistic Regression.
 
 ### Step 2: Develop and fit a Logistic Regression model
 * TBD
@@ -17,6 +17,4 @@
 * In progress
 
 ### Conclusions:
-* The accuracy score of the Logistic Regression model was over 92%.
-* The accuracy score of the Random Forest Classifier model is TBD.
-* My final conclusion is TBD.
+* Both models had over 90% accuracy score, indicating that both models performed reasonably well, but the Random Forest model performed better than the Logistic Regression model. The Random Forest model achieved an accuracy of 95.65% with testing data and predictions while the Logistic Regression model achieved a score of 92.96%.
