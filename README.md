@@ -23,3 +23,6 @@
 ### Conclusions:
 * Both models had over 90% accuracy score, indicating that both models performed reasonably well, but the Random Forest model performed better than the Logistic Regression model by 2 percentage points. The Random Forest model achieved an accuracy of 95.22% with testing data and predictions while the Logistic Regression model achieved a score of 93.22%.
 * My prediction that the Logistic Regression model would perform better was incorrect!
+
+### Sources for my code:
+* I wrote most of my code using AI Bootcamp samples provided in the weekly exercises and the starter file.
